@@ -11,7 +11,7 @@
     "url": "git+https://github.com/dangialiang/yejidb.git"
   },
   "author": "dangialiang@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dangialiang/yejidb/issues"
   },
